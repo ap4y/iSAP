@@ -1,0 +1,288 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8C81141B123A0E7E008816DA /* Makefile in Sources */ = {isa = PBXBuildFile; fileRef = 8C81141A123A0E7E008816DA /* Makefile */; };
+		8C811428123A1093008816DA /* at_utils.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C81141E123A1093008816DA /* at_utils.c */; };
+		8C811429123A1093008816DA /* commons.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C811420123A1093008816DA /* commons.c */; };
+		8C81142A123A1093008816DA /* rfcomm.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C811422123A1093008816DA /* rfcomm.c */; };
+		8C81142B123A1093008816DA /* sap_util.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C811424123A1093008816DA /* sap_util.c */; };
+		8C81142C123A1093008816DA /* sdp_utils.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C811426123A1093008816DA /* sdp_utils.c */; };
+		8C81143A123A10BC008816DA /* CF_util.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C811437123A10BC008816DA /* CF_util.c */; };
+		8C81143B123A10BC008816DA /* libBTstack.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C811439123A10BC008816DA /* libBTstack.dylib */; };
+		8C8376EC123659C100DD86A0 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C8376EB123659C100DD86A0 /* CoreFoundation.framework */; };
+		8C83773012365E8C00DD86A0 /* iSAP.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C83772F12365E8C00DD86A0 /* iSAP.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8DD76FAF0486AB0100D96B5E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 8;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		8C81141A123A0E7E008816DA /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; name = Makefile; path = Daemon/Makefile; sourceTree = "<group>"; };
+		8C81141E123A1093008816DA /* at_utils.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = at_utils.c; path = Daemon/at_utils.c; sourceTree = "<group>"; };
+		8C81141F123A1093008816DA /* at_utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = at_utils.h; path = Daemon/at_utils.h; sourceTree = "<group>"; };
+		8C811420123A1093008816DA /* commons.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = commons.c; path = Daemon/commons.c; sourceTree = "<group>"; };
+		8C811421123A1093008816DA /* commons.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = commons.h; path = Daemon/commons.h; sourceTree = "<group>"; };
+		8C811422123A1093008816DA /* rfcomm.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = rfcomm.c; path = Daemon/rfcomm.c; sourceTree = "<group>"; };
+		8C811423123A1093008816DA /* rfcomm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = rfcomm.h; path = Daemon/rfcomm.h; sourceTree = "<group>"; };
+		8C811424123A1093008816DA /* sap_util.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = sap_util.c; path = Daemon/sap_util.c; sourceTree = "<group>"; };
+		8C811425123A1093008816DA /* sap_util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = sap_util.h; path = Daemon/sap_util.h; sourceTree = "<group>"; };
+		8C811426123A1093008816DA /* sdp_utils.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = sdp_utils.c; path = Daemon/sdp_utils.c; sourceTree = "<group>"; };
+		8C811427123A1093008816DA /* sdp_utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = sdp_utils.h; path = Daemon/sdp_utils.h; sourceTree = "<group>"; };
+		8C811437123A10BC008816DA /* CF_util.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = CF_util.c; path = Daemon/CF_util.c; sourceTree = "<group>"; };
+		8C811438123A10BC008816DA /* CF_util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CF_util.h; path = Daemon/CF_util.h; sourceTree = "<group>"; };
+		8C811439123A10BC008816DA /* libBTstack.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libBTstack.dylib; path = Daemon/libBTstack.dylib; sourceTree = "<group>"; };
+		8C811460123A131A008816DA /* com.frischmann.iSAP.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = com.frischmann.iSAP.plist; path = Daemon/com.frischmann.iSAP.plist; sourceTree = "<group>"; };
+		8C8376EB123659C100DD86A0 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+		8C83772F12365E8C00DD86A0 /* iSAP.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = iSAP.c; path = Daemon/iSAP.c; sourceTree = "<group>"; };
+		8DD76FB20486AB0100D96B5E /* iSAP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = iSAP; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8DD76FAD0486AB0100D96B5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C8376EC123659C100DD86A0 /* CoreFoundation.framework in Frameworks */,
+				8C81143B123A10BC008816DA /* libBTstack.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* SAPdaemon */ = {
+			isa = PBXGroup;
+			children = (
+				8C81141A123A0E7E008816DA /* Makefile */,
+				8C811460123A131A008816DA /* com.frischmann.iSAP.plist */,
+				8C83772012365CD700DD86A0 /* Daemon */,
+				08FB7795FE84155DC02AAC07 /* Source */,
+				C6A0FF2B0290797F04C91782 /* Documentation */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+			);
+			name = SAPdaemon;
+			sourceTree = "<group>";
+		};
+		08FB7795FE84155DC02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8DD76FB20486AB0100D96B5E /* iSAP */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8C83772012365CD700DD86A0 /* Daemon */ = {
+			isa = PBXGroup;
+			children = (
+				8C86EC6B1230DF4700EFE44C /* Lib */,
+				8C83772F12365E8C00DD86A0 /* iSAP.c */,
+				8C83772212365CEA00DD86A0 /* Shared */,
+			);
+			name = Daemon;
+			sourceTree = "<group>";
+		};
+		8C83772212365CEA00DD86A0 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				8C811437123A10BC008816DA /* CF_util.c */,
+				8C811438123A10BC008816DA /* CF_util.h */,
+				8C811439123A10BC008816DA /* libBTstack.dylib */,
+				8C8376EB123659C100DD86A0 /* CoreFoundation.framework */,
+			);
+			name = Shared;
+			sourceTree = "<group>";
+		};
+		8C86EC6B1230DF4700EFE44C /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				8C81141E123A1093008816DA /* at_utils.c */,
+				8C81141F123A1093008816DA /* at_utils.h */,
+				8C811420123A1093008816DA /* commons.c */,
+				8C811421123A1093008816DA /* commons.h */,
+				8C811422123A1093008816DA /* rfcomm.c */,
+				8C811423123A1093008816DA /* rfcomm.h */,
+				8C811424123A1093008816DA /* sap_util.c */,
+				8C811425123A1093008816DA /* sap_util.h */,
+				8C811426123A1093008816DA /* sdp_utils.c */,
+				8C811427123A1093008816DA /* sdp_utils.h */,
+			);
+			name = Lib;
+			sourceTree = "<group>";
+		};
+		C6A0FF2B0290797F04C91782 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8DD76FA90486AB0100D96B5E /* iSAP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB928508733DD80010E9CD /* Build configuration list for PBXNativeTarget "iSAP" */;
+			buildPhases = (
+				8DD76FAB0486AB0100D96B5E /* Sources */,
+				8DD76FAD0486AB0100D96B5E /* Frameworks */,
+				8DD76FAF0486AB0100D96B5E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iSAP;
+			productInstallPath = "$(HOME)/bin";
+			productName = SAPdaemon;
+			productReference = 8DD76FB20486AB0100D96B5E /* iSAP */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB928908733DD80010E9CD /* Build configuration list for PBXProject "SAPdaemon" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 08FB7794FE84155DC02AAC07 /* SAPdaemon */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DD76FA90486AB0100D96B5E /* iSAP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8DD76FAB0486AB0100D96B5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C83773012365E8C00DD86A0 /* iSAP.c in Sources */,
+				8C81141B123A0E7E008816DA /* Makefile in Sources */,
+				8C811428123A1093008816DA /* at_utils.c in Sources */,
+				8C811429123A1093008816DA /* commons.c in Sources */,
+				8C81142A123A1093008816DA /* rfcomm.c in Sources */,
+				8C81142B123A1093008816DA /* sap_util.c in Sources */,
+				8C81142C123A1093008816DA /* sdp_utils.c in Sources */,
+				8C81143A123A10BC008816DA /* CF_util.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB928608733DD80010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/Shared\"",
+					"\"$(SRCROOT)/Daemon\"",
+				);
+				PRODUCT_NAME = iSAP;
+				VALID_ARCHS = "i386 ppc ppc64 ppc7400 ppc970 x86_64";
+			};
+			name = Debug;
+		};
+		1DEB928708733DD80010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/Shared\"",
+					"\"$(SRCROOT)/Daemon\"",
+				);
+				PRODUCT_NAME = SAPdaemon;
+			};
+			name = Release;
+		};
+		1DEB928A08733DD80010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "/Users/svp/btstack/include//**";
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Debug;
+		};
+		1DEB928B08733DD80010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB928508733DD80010E9CD /* Build configuration list for PBXNativeTarget "iSAP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB928608733DD80010E9CD /* Debug */,
+				1DEB928708733DD80010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB928908733DD80010E9CD /* Build configuration list for PBXProject "SAPdaemon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB928A08733DD80010E9CD /* Debug */,
+				1DEB928B08733DD80010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

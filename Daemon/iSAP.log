@@ -1,0 +1,1682 @@
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+Unknown packet 0f
+Unknown packet 0f
+Unknown packet 61
+Unknown packet 20
+Unknown packet 1b
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+Unknown packet 08
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Received BT_RFCOMM_MSC_CMD
+Responding...
+RX: address 23, control ff: Got 4 credits, can send!
+RX: address 23, control ef: Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ef: RX: address 23, control ef: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ef: Unknown packet 74
+Unknown packet 73
+Unknown packet 61
+Unknown packet 71
+Basebank connection closed
+Unknown packet 0f
+Unknown packet 0f
+Unknown packet 61
+Unknown packet 20
+Unknown packet 1b
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+Unknown packet 08
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Received BT_RFCOMM_MSC_CMD
+Responding...
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ef: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ef: RX: address 23, control ef: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ef: RX: address 23, control ef: RX: address 23, control ef: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ef: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ef: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ef: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ef: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 74
+Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 73
+Unknown packet 61
+Unknown packet 71
+Basebank connection closed
+Unknown packet 0f
+Unknown packet 0f
+Unknown packet 61
+Unknown packet 20
+Unknown packet 1b
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+Unknown packet 08
+Unknown packet 13
+Unknown packet 13
+Received BT_RFCOMM_MSC_CMD
+Responding...
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ef: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: 01: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+Unknown packet 73
+Unknown packet 61
+Unknown packet 71
+Basebank connection closed
+Unknown packet 0f
+Unknown packet 0f
+Unknown packet 61
+Unknown packet 20
+Unknown packet 1b
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+Unknown packet 08
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Received BT_RFCOMM_MSC_CMD
+Responding...
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ef: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ef: RX: address 23, control ef: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: RX: address 23, control ef: RX: address 23, control ef: RX: address 23, control ef: RX: address 23, control ef: RX: address 23, control ef: Unknown packet 73
+Unknown packet 73
+Unknown packet 73
+Unknown packet 73
+Unknown packet 73
+Unknown packet 73
+Unknown packet 71
+Unknown packet 13
+Unknown packet 61
+Basebank connection closed
+Unknown packet 0f
+Unknown packet 0f
+Unknown packet 61
+Unknown packet 20
+Unknown packet 13
+Unknown packet 13
+Unknown packet 1b
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 74
+Unknown packet 13
+Unknown packet 08
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Unknown packet 13
+Received BT_RFCOMM_MSC_CMD
+Responding...
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ef: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 74
+Unknown packet 13
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ef: Unknown packet 74
+Unknown packet 13
+RX: address 23, control ff: Unkntype   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+Unknown packet 0f
+HCI Init failed - make sure you have turned off Bluetooth in the System Settings
+type   DES (6), element len 96 
+    type  UINT (1), element len  3 , value: 0x00000001
+    type   DES (6), element len  9 
+        type  UUID (3), element len  3 , value: 0x0000112d
+        type  UUID (3), element len  3 , value: 0x00001204
+    type  UINT (1), element len  3 , value: 0x00000004
+    type   DES (6), element len 17 
+        type   DES (6), element len  6 
+            type  UUID (3), element len  3 , value: 0x00000100
+        type   DES (6), element len  8 
+            type  UUID (3), element len  3 , value: 0x00000003
+            type  UINT (1), element len  2 , value: 0x00000004
+    type  UINT (1), element len  3 , value: 0x00000005
+    type   DES (6), element len  6 
+        type  UUID (3), element len  3 , value: 0x00001002
+    type  UINT (1), element len  3 , value: 0x00000006
+    type   DES (6), element len 12 
+        type  UINT (1), element len  3 , value: 0x0000656e
+        type  UINT (1), element len  3 , value: 0x0000006a
+        type  UINT (1), element len  3 , value: 0x00000100
+    type  UINT (1), element len  3 , value: 0x00000009
+    type   DES (6), element len 12 
+        type   DES (6), element len  9 
+            type  UUID (3), element len  3 , value: 0x0000112d
+            type  UINT (1), element len  3 , value: 0x00000102
+    type  UINT (1), element len  3 , value: 0x00000100
+    type STRING (4), element len 19 len 16 (0x10)
+53 49 4D 20 41 63 63 65 73 73 00 00 52 46 43 4F 
+Unknown packet 0f
+Unknown packet 0f
+HCI Init failed - make sure you have turned off Bluetooth in the System Settings
